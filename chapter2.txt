@@ -1,1 +1,1 @@
-Machine Learning is a technique or process to teach a machine how to do a particular kind of problems by applying different different techniques and algorithms.
+Machine Learning is a technique or process to teach a machine how to do a particular kind of task by applying different different techniques and algorithms.
